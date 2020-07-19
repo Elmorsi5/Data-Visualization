@@ -52,7 +52,12 @@
   - Define our model with different values of k to get the best accuracy score
   - define the maximum value between them
 
-
+## Resource:
+[DATA](https://data.world/uci/echocardiogram?fbclid=IwAR119-0JSPswIykX5IhmFOIueuB6VHOfQow6KTzWbyn-7UIVW7LYkKvbLv8)
+### Vidos can help you well understand
+   - [Video1](https://www.youtube.com/watch?v=PQ8bMAxjxRk)
+   - [video2](https://www.youtube.com/watch?v=dciFRAawP1o)
+   - [video3](https://www.youtube.com/watch?v=buiH2hfLoEg0)
 
 
 
